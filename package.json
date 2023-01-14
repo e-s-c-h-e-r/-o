@@ -1,0 +1,22 @@
+{
+  "name": "o",
+  "version": "1.0.0",
+  "description": "Este projeto é um bot Discord que permite que os usuários adicionem ou removam seus nomes de uma fila e limpe a fila com a aprovação majoritária.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-s-c-h-e-r/o.git"
+  },
+  "keywords": [
+    "fila"
+  ],
+  "author": "e-s-c-h-e-r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e-s-c-h-e-r/o/issues"
+  },
+  "homepage": "https://github.com/e-s-c-h-e-r/o#readme"
+}
